@@ -1,0 +1,4 @@
+SELECT *
+INTO new_department
+FROM dbo.departments
+WHERE 1 = 0;
